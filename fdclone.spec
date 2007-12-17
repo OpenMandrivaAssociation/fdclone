@@ -11,7 +11,6 @@ License:        BSD-like
 URL:            http://hp.vector.co.jp/authors/VA012337/soft/fd/
 Source:         %{src_name}-%{version}.tar.bz2
 Patch0:         fd-clone_change_config.diff
-BuildRoot:      %{_tmppath}/%{name}-%{version}-root
 BuildRequires:	ncurses-devel
 
 %description
