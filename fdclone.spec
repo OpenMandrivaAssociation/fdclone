@@ -1,5 +1,5 @@
 %define version  2.08
-%define release  %mkrel 5
+%define release  %mkrel 6
 %define src_name FD
 
 Name:           fdclone
