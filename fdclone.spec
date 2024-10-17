@@ -9,7 +9,7 @@ Release:        %{release}
 Summary:        FD-clone file manager
 Group:          File tools
 License:        BSD-like
-URL:            http://hp.vector.co.jp/authors/VA012337/soft/fd/
+URL:            https://hp.vector.co.jp/authors/VA012337/soft/fd/
 Source:         %{src_name}-%{version}.tar.bz2
 Patch0:         fd-clone_change_config.diff.bz2
 BuildRequires:	pkgconfig(ncurses)
